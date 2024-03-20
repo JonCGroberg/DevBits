@@ -2,7 +2,7 @@
 
 > Currently in the process of porting all aspects of the page to react+astro components [Track Progress Here](https://github.com/users/JonCGroberg/projects/9)
 
-Welcome to DevBits, your go-to social media platform designed exclusively for web developers. Connect, share, and explore the world of coding with like-minded individuals. Whether you're a seasoned developer or just starting your coding journey, DevBits is the place to be.
+Welcome to DevBits, your go-to social media platform designed exclusively for developers. Connect, share, and explore the world of coding with like-minded individuals. Whether you're a seasoned developer or just starting your coding journey, DevBits is the place to be.
 
 Created by: [Jonathan Groberg](https://github.com/joncgroberg)
 , [Armanie Feliciano](https://github.com/MrRobut98), and [Xabier Jones](https://github.com/l3tsgititzay)
